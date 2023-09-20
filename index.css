@@ -1,9 +1,19 @@
 main{
     width:50rem;
     height:80rem;
+    background-color: white;
 }
 
 .image{
-    width:22rem;
-    height:22rem;
+    width:24rem;
+    height:24rem;
+}
+
+.divizq{
+    width:24rem;
+    background-color: #84D2E8;
+}
+
+.divder{
+    width:26rem;
 }
